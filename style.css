@@ -1,0 +1,65 @@
+body { 
+    background-color: blanchedalmond;
+    text-align: center;
+    border: border-style color red; 
+  
+
+
+}
+
+title {
+    font-size: 35px;
+    color: blue;
+    background-color: black;
+    text-align: center;
+
+
+}
+
+main {
+    font-size: 32px;
+    color: blue;
+    text-align: center;
+    background-color: black
+}
+
+UL {
+    font-family: cursive;
+    font-size: 25px;
+    color: orange;
+    background-color: black;
+    text-align: center;
+
+}
+
+header { 
+    font-size: 30px;
+color: red;
+text-align: center;
+background-color: black;
+
+
+
+}
+
+p {
+    color: blueviolet;
+    font-size: 45px;
+    text-align: center;
+    font-family: Times New Roman;
+    background-color: black
+
+}
+
+
+
+
+ol {
+    font-size: 25px;
+    color: green;
+    font-family: Times New Roman;
+    text-align: center;
+    background-color: black;
+
+
+}
